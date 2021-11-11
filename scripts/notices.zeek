@@ -1,4 +1,4 @@
-##! Bro scripts that are used to detect suspicious data in detected HTTP payloads
+##! Zeek scripts that are used to detect suspicious data in detected HTTP payloads
 
 @load base/frameworks/notice
 

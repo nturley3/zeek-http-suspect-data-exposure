@@ -19,6 +19,10 @@ If you need to upgrade the package:
 
 See the [Zeek Package Manager Docs](https://docs.zeek.org/projects/package-manager/en/stable/quickstart.html) for more information.
 
+## Configuration
+
+No additional Zeek configuration is necessary for this module.
+
 ## Generated Outputs
 
 This script generates multiple notices:
@@ -50,3 +54,8 @@ A security analyst can examine the generated notice logs for potential organizat
 
 
 Type: Data Hygiene, Threat Hunting
+
+
+## About
+
+Written by [@nturley3](https://github.com/nturley3) and [@forewarned](https://github.com/forewarned).
