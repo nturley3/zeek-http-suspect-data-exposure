@@ -1,10 +1,10 @@
-##! Bro scripts that are used to detect suspicious data in detected HTTP payloads
+##! Zeek scripts that are used to detect suspicious data in detected HTTP payloads
 
 module HTTPAppExposure;
 
 export {
         # We only want to trigger on successful HTTP status codes detected in responses
-        # Make global to this module only, not the entire Bro namespace
+        # Make global to this module only, not the entire Zeek namespace
         const app_success_status_codes: set[count] = {
                 200,
                 201,
