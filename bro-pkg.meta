@@ -1,0 +1,5 @@
+[package]
+description = Detects presence of potentially sensitive information in HTTP payloads
+tags = http
+script_dir = scripts
+version = 1.9.3
