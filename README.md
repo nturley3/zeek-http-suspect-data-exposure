@@ -7,6 +7,8 @@ This package is ideal for checking data hygiene and reducing the attack surface.
 
 ## Installation/Upgrade
 
+This script was tested using Zeek 3.0.11 and 4.0.3.
+
 This is easiest to install through the Zeek package manager:
 
 	zkg refresh
